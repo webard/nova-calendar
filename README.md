@@ -1,6 +1,6 @@
 <h1 align="center">Event calendar for Laravel Nova 4</h1>
 
-This is a fork of https://github.com/wdelfuego/nova-calendar and will be deleted when package accepts compatibility with Laravel 11.
+This is a fork of https://github.com/wdelfuego/nova-calendar and **will be deleted** when original package accepts compatibility with Laravel 11.
 
 <p align="center">An event calendar that displays Nova resources or other time-related data in your Nova 4 project on a monthly calendar view that adapts nicely to clear and dark mode.</p>
 
